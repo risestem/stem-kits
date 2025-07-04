@@ -89,6 +89,6 @@ MIT License. See `LICENSE` for details.
 ## Contact
 
 Questions or want to use RISE Kits in your classroom or workshop?  
-Open an issue or email [braydenwatt@westminster.net].
+Open an issue or email <braydenwatt@westminster.net>.
 
 ---
