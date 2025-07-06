@@ -2,6 +2,16 @@
 
 Welcome to the RISE Kits repository! Here you’ll find open-source resources for a growing collection of hands-on STEM kits designed to teach students real-world engineering, physics, and programming through engaging DIY projects. Each kit enables learners to build every component, wire all connections, and program their creations using the Arduino IDE or similar tools.
 
+## Table of Contents
+
+1. [What are RISE Kits?](#what-are-rise-kits)
+2. [Repository Structure](#repository-structure)
+3. [Current Kits](#current-kits)
+    - [Drawing Bot](#1-drawing-bot)
+    - [Trebuchet (Coming Soon)](#2-trebuchet-coming-soon)
+4. [Contributing](#contributing)
+5. [License](#license)
+6. [Contact](#contact)
 ---
 
 ## What are RISE Kits?
