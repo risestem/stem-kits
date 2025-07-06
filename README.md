@@ -23,11 +23,13 @@ Welcome to the RISE Kits repository! Here you’ll find open-source resources fo
 
 ---
 
-## Available Kits
+## Current Kits
 
 ### 1. Drawing Bot
 
 A programmable robot that can draw patterns or letters. Students build the robot from scratch, wire all components, and upload Arduino code to control its movements.
+
+**CAD:** [Onshape](https://cad.onshape.com/documents/bb968d8fb2070a289d3f2913/w/538545adee42cfc921f6a605/e/ba9d169c3e0d8e1334ed3d13?renderMode=0&uiState=686ac18c67892d702480853d)
 
 **Features:**
 - 2 stepper motors for XY movement
