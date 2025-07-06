@@ -2,7 +2,18 @@
 
 Welcome to the RISE Kits repository! Here you’ll find open-source resources for a growing collection of hands-on STEM kits designed to teach students real-world engineering, physics, and programming through engaging DIY projects. Each kit enables learners to build every component, wire all connections, and program their creations using the Arduino IDE or similar tools.
 
----
+## Table of Contents
+
+1. [What are RISE Kits?](#what-are-rise-kits)
+2. [Repository Structure](#repository-structure)
+3. [Current Kits](#current-kits)
+    - [Drawing Bot](#1-drawing-bot)
+        - [Code Example](#code-example)
+        - [Assembly & Programming Instructions](#assembly--programming-instructions)
+    - [Trebuchet (Coming Soon)](#2-trebuchet-coming-soon)
+4. [Contributing](#contributing)
+5. [License](#license)
+6. [Contact](#contact)
 
 ## What are RISE Kits?
 
@@ -13,15 +24,12 @@ Welcome to the RISE Kits repository! Here you’ll find open-source resources fo
 - **Philosophy**: Make STEM education tangible, creative, and accessible through hands-on building and programming.
 - **Learning Outcomes**: Engineering design, physics, electronics, coding (Arduino/C++), and problem-solving skills.
 
----
 
 ## Repository Structure
 
 - `drawing_bot/` - Complete files (code, 3D models, instructions) for the Drawing Bot kit.
 - `trebuchet/` - (Coming soon) Files for a 3D-printed/laser-cut trebuchet kit to teach physics and mechanical engineering.
 - More kit folders coming soon, each with a Bill of Materials (BOM), code, and assembly guides.
-
----
 
 ## Current Kits
 
@@ -39,8 +47,6 @@ A programmable robot that can draw patterns or letters. Students build the robot
 
 **Folder**: [`drawing_bot/`](./drawing_bot/)
 
----
-
 #### Code Example
 
 The `drawing_bot` folder contains example Arduino code to draw the letters "RISE".  
@@ -53,8 +59,6 @@ For full code and instructions, see [`drawing_bot/drawing_bot.ino`](./drawing_bo
 
 // ... (see drawing_bot/drawing_bot.ino for full code)
 ```
-
----
 
 #### Assembly & Programming Instructions
 
@@ -75,22 +79,24 @@ A 3D-printed or laser-cut trebuchet designed to teach physics (kinematics), mech
 
 ---
 
+### 3. Raspberry Pi Game Console (Coming Soon)
+
+Custom handheld gaming console based on the Raspberry Pi Pico, designed to teach soldering, electronics, and coding.
+
+- Folder: `game_console/`
+- BOM, files, and lesson materials coming soon.
+
 ## Contributing
 
 - Want to add your own kit? Fork this repo and add a new folder with BOM, code, and assembly instructions.
 - Pull requests and suggestions are welcome!
 
----
-
 ## License
 
 MIT License. See `LICENSE` for details.
-
----
 
 ## Contact
 
 Questions or want to use RISE Kits in your classroom or workshop?  
 Open an issue or email <braydenwatt@westminster.net>.
 
----
