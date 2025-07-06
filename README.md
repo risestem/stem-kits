@@ -6,7 +6,7 @@ Welcome to the RISE Kits repository! Here you’ll find open-source resources fo
 
 ## What are RISE Kits?
 
-**RISE Kits** are a series of do-it-yourself STEM project kits that introduce students to engineering, computer science, and physics concepts. 
+**RISE Kits** are a series of do-it-yourself STEM project kits that introduce students to engineering, computer science, and physics concepts. RISE's goal is to provide FREE kits to students in our community. 
 
 - **Audience**: Middle school students, educators, workshop leaders, makerspaces, families, and hobbyists.
 - **Format**: Designed for use at home, in classrooms, or during workshops at schools, libraries, and community centers.
