@@ -10,7 +10,6 @@ Welcome to the RISE Kits repository! Here you’ll find open-source resources fo
     - [Drawing Bot](#1-drawing-bot)
         - [Code Example](#code-example)
         - [Assembly & Programming Instructions](#assembly--programming-instructions)
-    - [Trebuchet (Coming Soon)](#2-trebuchet-coming-soon)
 4. [Contributing](#contributing)
 5. [License](#license)
 6. [Contact](#contact)
@@ -79,7 +78,7 @@ Custom handheld gaming console based on the Raspberry Pi Pico, designed to teach
 
 ### 3. Trebuchet (POSTPONED)
 
-A 3D-printed or laser-cut trebuchet designed to teach physics (kinematics), mechanical engineering, and hands-on building skills.
+A laser-cut trebuchet designed to teach physics (kinematics), mechanical engineering, and hands-on building skills.
 
 - Folder: `trebuchet/`
 - BOM, files, and lesson materials coming soon.
