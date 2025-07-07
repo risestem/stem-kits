@@ -67,6 +67,8 @@ For full code and instructions, see [`drawing_bot/drawing_bot.ino`](./drawing_bo
 4. Upload the example code to the Arduino Nano using the Arduino IDE.
 5. Place the robot on paper and watch it draw!
 
+---
+
 ### 2. Raspberry Pi Game Console (Coming Soon)
 
 Custom handheld gaming console based on the Raspberry Pi Pico, designed to teach soldering, electronics, and coding.
