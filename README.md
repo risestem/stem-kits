@@ -68,9 +68,16 @@ For full code and instructions, see [`drawing_bot/drawing_bot.ino`](./drawing_bo
 4. Upload the example code to the Arduino Nano using the Arduino IDE.
 5. Place the robot on paper and watch it draw!
 
+### 2. Raspberry Pi Game Console (Coming Soon)
+
+Custom handheld gaming console based on the Raspberry Pi Pico, designed to teach soldering, electronics, and coding.
+
+- Folder: `game_console/`
+- BOM, files, and lesson materials coming soon.
+
 ---
 
-### 2. Trebuchet (Coming Soon)
+### 3. Trebuchet (POSTPONED)
 
 A 3D-printed or laser-cut trebuchet designed to teach physics (kinematics), mechanical engineering, and hands-on building skills.
 
@@ -78,13 +85,6 @@ A 3D-printed or laser-cut trebuchet designed to teach physics (kinematics), mech
 - BOM, files, and lesson materials coming soon.
 
 ---
-
-### 3. Raspberry Pi Game Console (Coming Soon)
-
-Custom handheld gaming console based on the Raspberry Pi Pico, designed to teach soldering, electronics, and coding.
-
-- Folder: `game_console/`
-- BOM, files, and lesson materials coming soon.
 
 ## Contributing
 
