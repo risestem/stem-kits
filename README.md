@@ -68,21 +68,22 @@ For full code and instructions, see [`drawing_bot/drawing_bot.ino`](./drawing_bo
 5. Place the robot on paper and watch it draw!
 
 ---
+### 2. CNC Pen Plotter
 
-### 2. Raspberry Pi Game Console (Coming Soon)
+2 axis CNC plotter that uses a marker to draw on paper. Powered by steppers and servos and designed to be a "2 in 1" alternative to the Drawing Bot while teaching G-Code basics and extending learning.
+
+---
+### 3. Robotic Arm
+
+6 DOF robotic arm powered by 6 SG90 servo motors. The next generation of RISE kits planned for use in RISE engineering curriculum to supplement mechanical and electrical engineering lessons.
+
+---
+
+### 4. Raspberry Pi Game Console (POSTPONED)
 
 Custom handheld gaming console based on the Raspberry Pi Pico, designed to teach soldering, electronics, and coding.
 
 - Folder: `game_console/`
-- BOM, files, and lesson materials coming soon.
-
----
-
-### 3. Trebuchet (POSTPONED)
-
-A laser-cut trebuchet designed to teach physics (kinematics), mechanical engineering, and hands-on building skills.
-
-- Folder: `trebuchet/`
 - BOM, files, and lesson materials coming soon.
 
 ---
