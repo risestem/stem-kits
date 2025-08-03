@@ -62,8 +62,8 @@ For full code and instructions, see [`drawing_bot/drawing_bot.ino`](./drawing_bo
 #### Assembly & Programming Instructions
 
 1. 3D print or gather all mechanical parts (wheels, chassis, pen holder, etc.).
-2. Assemble the robot following the included guide in `drawing_bot/`.
-3. Wire all components on the breadboard using the schematic provided.
+2. Assemble the robot following the included guide in `drawing_bot/` or [here](https://github.com/risestem/stem-kits/blob/main/drawing_bot/Drawing%20Bot%20Manual%20v1%20(No%20Programming).pdf).
+3. Wire all components on the breadboard following the guide and by using the schematic provided.
 4. Upload the example code to the Arduino Nano using the Arduino IDE.
 5. Place the robot on paper and watch it draw!
 
