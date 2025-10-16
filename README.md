@@ -80,15 +80,47 @@ void setup() {
 4. Upload the example code to the Arduino Nano using the Arduino IDE.
 5. Place the robot on paper and watch it draw!
 
+### Photos
+
+![IMG_4902](https://github.com/user-attachments/assets/9d5e7210-7851-4821-b37b-f1143026063d)
+
 ---
 ### 2. CNC Pen Plotter
 
+> [!IMPORTANT]
+> Due to the difficulty of assembly and use, this will likely not be used in lessons!
+
 2 axis CNC plotter that uses a marker to draw on paper. Powered by steppers and servos and designed to be a "2 in 1" alternative to the Drawing Bot while teaching G-Code basics and extending learning.
+
+**CAD:** [Onshape](https://cad.onshape.com/documents/e8de9894a3fb29760a1077de/w/5c5bd0e99e905e86dfd261f6/e/f2af0ee17d8835493505ec1c?renderMode=0&uiState=68f15fc094957c3340305e64)
+
+**Features:**
+This kit is inteded to be possible to construct using only parts from the Drawing Bot
+- 2 stepper motors for XY movement
+- 1 servo for pen up/down
+- Arduino Nano control
+- Breadboard-based wiring (no soldering required)
+
+#### Assembly & Programming Instructions
+
+1. 3D print or gather all mechanical parts (wheels, chassis, pen holder, etc.).
+2. Assemble the robot following the CAD (instruction manual to be made).
+3. Wire all components on the breadboard.
+4. Download Universal G-Code Sender and Inkscape 0.92.2
+5. Create your drawing on Inkscape and use the Servo SVG Tool to export it as G-Code
+6. Upload the G-Code to Universal G-Code Sender, hit play, and watch the robot run!
+
+### Photos
+
+![IMG_0906](https://github.com/user-attachments/assets/fc9c14f8-1d6e-409e-adc8-2300435c5a88)
+![IMG_0905](https://github.com/user-attachments/assets/991b242b-af29-4ed4-8ea1-857499c5499f)
 
 ---
 ### 3. Robotic Arm
 
 6 DOF robotic arm powered by 6 SG90 servo motors. The next generation of RISE kits planned for use in RISE engineering curriculum to supplement mechanical and electrical engineering lessons.
+
+**CAD:** [Onshape](https://cad.onshape.com/documents/31f9a4ccf8270ed4b4feaa9b/w/914a771cc65a46709282e413/e/b75a0c77d5754acd8a1cc8b8?renderMode=0&uiState=68f1611e0222f01b0e1b8e0b)
 
 ---
 
@@ -97,7 +129,8 @@ void setup() {
 Custom handheld gaming console based on the Raspberry Pi Pico, designed to teach soldering, electronics, and coding.
 
 - Folder: `game_console/`
-- BOM, files, and lesson materials coming soon.
+
+PCB: [EasyEDA](https://oshwlab.com/wattbrayden/rise-console)
 
 ---
 
