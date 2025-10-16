@@ -56,7 +56,20 @@ For full code and instructions, see [`drawing_bot/drawing_bot.ino`](./drawing_bo
 #include <Servo.h>
 #include <math.h>
 
-// ... (see drawing_bot/drawing_bot.ino for full code)
+void setup() {
+ Serial.begin(9600);
+ setMotorSpeed(15);
+
+ // Start at 2.5cm from left, 5cm from bottom, facing RIGHT
+
+ // === R ===
+ penDown(); moveForward(10);
+ turnRight(90); moveForward(5);
+ turnRight(90); moveForward(5);
+ turnRight(90); moveForward(5);
+ turnLeft(135); moveForward(7.071);
+ penUp();
+}
 ```
 
 #### Assembly & Programming Instructions
