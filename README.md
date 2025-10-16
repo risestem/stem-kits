@@ -8,8 +8,9 @@ Welcome to the RISE Kits repository! Here you’ll find open-source resources fo
 2. [Repository Structure](#repository-structure)
 3. [Current Kits](#current-kits)
     - [Drawing Bot](#1-drawing-bot)
-        - [Code Example](#code-example)
-        - [Assembly & Programming Instructions](#assembly--programming-instructions)
+    - [CNC Pen Plotter](#2-cnc-pen-plotter)
+    - [Robotic Arm](#3-robotic-arm)
+    - [Raspberry Pi Game Console](#4-raspberry-pi-game-console-postponed)
 4. [Contributing](#contributing)
 5. [License](#license)
 6. [Contact](#contact)
@@ -80,9 +81,13 @@ void setup() {
 4. Upload the example code to the Arduino Nano using the Arduino IDE.
 5. Place the robot on paper and watch it draw!
 
-### Photos
+#### Photos
 
-![IMG_4902](https://github.com/user-attachments/assets/9d5e7210-7851-4821-b37b-f1143026063d)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9d5e7210-7851-4821-b37b-f1143026063d" alt="The completed Drawing Bot kit with custom wheels and a pen attached, ready to draw." width="500">
+  <br>
+  <em>The completed Drawing Bot, ready to bring code to life.</em>
+</p>
 
 ---
 ### 2. CNC Pen Plotter
@@ -110,10 +115,22 @@ This kit is inteded to be possible to construct using only parts from the Drawin
 5. Create your drawing on Inkscape and use the Servo SVG Tool to export it as G-Code
 6. Upload the G-Code to Universal G-Code Sender, hit play, and watch the robot run!
 
-### Photos
+#### Photos
 
-![IMG_0906](https://github.com/user-attachments/assets/fc9c14f8-1d6e-409e-adc8-2300435c5a88)
-![IMG_0905](https://github.com/user-attachments/assets/991b242b-af29-4ed4-8ea1-857499c5499f)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/fc9c14f8-1d6e-409e-adc8-2300435c5a88" alt="Front view of the CNC Pen Plotter, showing the X and Y axes." width="400">
+      <br>
+      <em>Finished CNC Plotter drawing.</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/991b242b-af29-4ed4-8ea1-857499c5499f" alt="Side view of the CNC Pen Plotter, highlighting the servo motor for the Z-axis." width="400">
+      <br>
+      <em>Side view, showing the pen-lifting mechanism.</em>
+    </td>
+  </tr>
+</table>
 
 ---
 ### 3. Robotic Arm
@@ -147,4 +164,3 @@ MIT License. See `LICENSE` for details.
 
 Questions or want to use RISE Kits in your classroom or workshop?  
 Open an issue or email <braydenwatt@westminster.net>.
-
